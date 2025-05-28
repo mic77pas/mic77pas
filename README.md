@@ -1,5 +1,5 @@
 # 🧗 Michael Pasyechnyk
-My name is Michael, and I'm a current student at the University of Waterloo studying Systems Design Engineering (SYDE).
+### `Systems Design Engineering @ University of Waterloo`
 
 I'm interested in learning all things surrounding full-stack development, UX/UI, AI, and product design!
 
