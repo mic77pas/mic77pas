@@ -34,3 +34,4 @@ I'm interested in learning all things surrounding full-stack development, UX/UI,
 <details>
   <summary><h3> Michael's Journey</h3></summary>
 </details>
+
