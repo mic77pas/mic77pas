@@ -1,7 +1,7 @@
 # 🧗 Michael Pasyechnyk
 ### `Systems Design Engineering @ University of Waterloo`
 
-Interested in learning all things surrounding full-stack development, UX/UI, AI, and product design!
+Interested in learning all things surrounding front-end development, UX/UI, AI, and product design!
 
 - I’m currently working with [IpserLab](https://www.ipserlab.com/) as a SWE Intern, helping startups such as TectraLabs with front-end development and learning the ropes in Product Management.
 - I’m currently learning to work with frameworks such as React, and also getting into design tools such as Figma & WebFlow
