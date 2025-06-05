@@ -1,7 +1,5 @@
-<h1 align="center">🧗 Michael Pasyechnyk</h1>
-<h3 align="center"><code>Systems Design Engineering @ University of Waterloo</code></h3>
-
----
+# 🧗 Michael Pasyechnyk
+### `Systems Design Engineering @ University of Waterloo`
 
 Interested in learning all things surrounding front-end development, UX/UI, AI, and product design!
 
