@@ -1,4 +1,4 @@
-<!--
+
 # 🧗 Michael Pasyechnyk
 ### `Systems Design Engineering @ University of Waterloo`
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/michaelpasyechnyk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mic77p@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mic77_pas)
@@ -39,8 +39,8 @@ Interested in learning all things surrounding front-end development, UX/UI, AI, 
 
 ---
 
--->
 
+<!--
 <div align="center">
 
 # 🧗 Michael Pasyechnyk
@@ -114,7 +114,7 @@ Interested in learning all things surrounding front-end development, UX/UI, AI, 
 </div>
 
 ---
-
+-->
 
 <!--
 ### Languages and Tools  
