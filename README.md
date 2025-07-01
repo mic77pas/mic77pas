@@ -125,9 +125,3 @@ Interested in learning all things surrounding front-end development, UX/UI, AI, 
 <img align="left" alt="Java" width="40px" hspace="2" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain.svg" />
 <br />
 -->
-
-<!-- uncomment when I have actual stats to show
-#
-### Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mic77pas&show_icons=true&theme=gotham)
--->
