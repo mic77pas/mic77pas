@@ -32,7 +32,6 @@ Interested in learning all things surrounding front-end development, UX/UI, AI, 
 
 ---
 
-
 <!--
 <div align="center">
 
