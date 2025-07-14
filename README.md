@@ -19,9 +19,9 @@ Interested in learning all things surrounding front-end development, UX/UI, AI, 
 <br>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mic77pas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mic77pas&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="300"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="20" height="1"/>
-  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=mic77pas&theme=dark&hide_border=false" width="355"/>
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=mic77pas&theme=chartreuse-dark&hide_border=false" width="355"/>
 </p>
 
 <details>
