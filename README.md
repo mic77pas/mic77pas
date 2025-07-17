@@ -50,22 +50,6 @@ Today, I’m focused on building my skills in full-stack development, UI/UX desi
 
 ---
 
-<div align="center">
-
-Interested in learning all things surrounding front-end development, UX/UI, AI, and product design!
-
-</div>
-
-- 🔭 I’m currently working with [IpserLab](https://www.ipserlab.com/) as a SWE Intern, helping startups such as TectraLabs with front-end development and learning the ropes in Product Management.  
-- 🌱 I’m currently learning to work with frameworks such as React, and also getting into design tools such as Figma & WebFlow  
-- 🤝 I’m always looking for more avenues to grow and contribute so please feel free to come to me with any opportunities!  
-  
-*(I also transferred after a year of being in the Geomatics program so I know a thing or two about* ***GIS systems*** *as well! 🌍)*
-
----
-
-<div align="center">
-
 ## 💻 Tech Stack
 
 ### Languages  
@@ -99,13 +83,6 @@ Interested in learning all things surrounding front-end development, UX/UI, AI, 
 <br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mic77pas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<details>
-  <summary><h3> 📌 Michael's Journey</h3></summary>
-  <p align="center">
-    Hi! I’m Michael Pasyechnyk, an incoming Systems Design Engineering student at the University of Waterloo with a non-traditional path into tech. I originally began in Geomatics, an environmental science program at UWaterloo, where I explored data science, GIS, and digital mapping. Along the way, I found myself drawn to the creative and technical challenges of software development and product design, which led to my transition into engineering. Today, I’m focused on building my skills in full-stack development, UI/UX design, and AI—often through hands-on projects and internships. On campus, I stay involved in a range of leadership and tech-related roles that let me contribute to student life and entrepreneurship. Outside of academics, I love travelling, climbing, drawing, and working on other side projects to further develop my skills. My journey so far has been a mix of exploration, curiosity, and continuous learning—and I’m just getting started.
-  </p>
-</details>
 
 </div>
 
