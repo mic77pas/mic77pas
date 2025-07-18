@@ -47,7 +47,6 @@ Today, I’m focused on building my skills in full-stack development, UI/UX desi
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mic77_pas)
 
 </div>
-
 ---
 
 ## 💻 Tech Stack
