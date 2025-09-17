@@ -8,7 +8,7 @@
 
 Interested in learning all things surrounding full-stack development, UX/UI, AI, and product design!
 
-- I’m currently interning at [IpserLab](https://www.ipserlab.com/) as a SWE, practicing front-end development and learning the ropes in product management.
+- I previously interned at [IpserLab](https://www.ipserlab.com/) as a SWE, practicing front-end development and learning the ropes in product management.
 - I’m currently developing with frameworks such as React, and also getting into design tools such as Figma & WebFlow
 - I’m always looking for more avenues to grow and contribute so please feel free to come to me with any opportunities!
   
