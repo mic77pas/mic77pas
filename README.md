@@ -31,7 +31,7 @@ Interested in learning all things surrounding full-stack development, UX/UI, AI,
 <details>
   <summary><h3> 📌 My Journey</h3></summary>
   <p>
-    Hi! I’m Michael Pasyechnyk, an incoming Systems Design Engineering student at the University of Waterloo with a non-traditional path into tech. I originally began in Geomatics, an environmental science program at UWaterloo, where I explored data science, GIS, and digital mapping. Along the way, I found myself drawn to the creative and technical challenges of software development and product design, which led to my transition into engineering. 
+    Hi! I’m Michael Pasyechnyk, a Systems Design Engineering student at the University of Waterloo with a non-traditional path into tech. I originally began in Geomatics, an environmental science program at UWaterloo, where I explored data science, GIS, and digital mapping. Along the way, I found myself drawn to the creative and technical challenges of software development and product design, which led to my transition into engineering. 
     
     
 Today, I’m focused on building my skills in full-stack development, UI/UX design, and AI—often through hands-on projects and internships. On campus, I stay involved in a range of leadership and tech-related roles that let me contribute to student life and entrepreneurship. Outside of academics, I love travelling, climbing, drawing, and working on other side projects to further develop my skills. My journey so far has been a mix of exploration, curiosity, and continuous learning—and I’m just getting started.
