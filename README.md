@@ -9,7 +9,7 @@
 Interested in learning all things surrounding full-stack development, UX/UI, AI, and product design!
 
 - I previously interned at [IpserLab](https://www.ipserlab.com/) as a SWE, practicing front-end development and learning the ropes in product management.
-- I’m currently developing with frameworks such as React, and also getting more into design tools such as Figma
+- I’m currently developing with frameworks such as React, and also getting more into design tools such as Figma and Framer
 - I’m always looking for more avenues to grow and contribute so please feel free to come to me with any opportunities!
   
 (I also transferred after a year of being in the Geomatics program so I know a thing or two about *GIS systems* as well! :earth_americas:)
