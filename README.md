@@ -8,7 +8,7 @@
 
 Interested in learning all things surrounding full-stack development, UX/UI, AI, and product design!
 
-- I'm currently interning at [ParkUsher](https://www.parkusher.app/) as a SWE practicing front-end development.
+- I'm currently interning at [ParkUsher](https://www.parkusher.app/) as a SWE practicing front-end and full-stack development.
 - I’m currently developing with frameworks such as React, and also getting more into design tools such as Figma and Framer
 - I’m always looking for more avenues to grow and contribute so please feel free to come to me with any opportunities!
   
