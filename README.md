@@ -30,10 +30,11 @@ Interested in learning all things surrounding full-stack development, UX/UI, AI,
 </picture> 
 -->
 
+<!--
   <p align="left">
     <img height="180px" src="https://nirzak-streak-stats.vercel.app/?user=mic77pas&theme=github_dark&hide_border=false" width="355"/>
   </p>
-
+-->
 
 <!--
 <details>
