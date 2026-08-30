@@ -10,7 +10,7 @@ Interested in doing all things surrounding full-stack development, UX/UI, AI, an
 
 - I'm a Forward Deployed Engineer at [Avante IO](https://www.avante.io/) this fall, diving into business development and full-stack projects.
 - I previously interned at [ParkUsher](https://www.parkusher.app/) as a SWE practicing front-end mobile development.
-- I’m currently developing with frameworks such as React and Django, and also getting more into design tools such as Figma and Framer.
+- I’m currently developing with frameworks such as React, and also getting more into design tools such as Figma and Framer.
 - I’m always looking for more avenues to grow and contribute so please feel free to come to me with any opportunities!
   
 (I also transferred after a year of Geomatics at [Waterloo](https://uwaterloo.ca) so I know a thing or two about *GIS systems* as well! :earth_americas:)
